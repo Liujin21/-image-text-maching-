@@ -1,5 +1,4 @@
-# -
-image-text maching
+#看过的image-text maching好文章整理
 
 (CVPR2020_IMRAM) IMRAM: Iterative Matching with Recurrent Attention Memory for Cross-Modal Image-Text Retrieval.
 Hui Chen, Guiguang Ding, Xudong Liu, Zijia Lin, Ji Liu, Jungong Han.
